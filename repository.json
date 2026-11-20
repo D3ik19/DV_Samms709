@@ -2,6 +2,11 @@
   "Releases": [
     {
       "Id": "Samms709",
+      "Version": "0.0.3",
+      "DownloadUrl": "https://github.com/D3ik19/DV_Samms709/releases/download/v0.0.3/Samms709.zip"
+    },
+    {
+      "Id": "Samms709",
       "Version": "0.0.2",
       "DownloadUrl": "https://github.com/D3ik19/DV_Samms709/releases/download/v0.0.2/Samms709.zip"
     }
